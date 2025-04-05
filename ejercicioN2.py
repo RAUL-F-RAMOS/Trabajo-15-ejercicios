@@ -1,0 +1,11 @@
+##trabajo numero 3 crear un cuento en 10 lineas
+print("Habia una vez")
+print("una familia de cerditos")
+print("Que vivian felices de todo lo que lograron atravez del pasar del tiempo")
+print("ya que la familia de cerditos se caracterizaban por:")
+print("1.honor")
+print("2.humildad")
+print("3.amabilidad")
+print("4.honestidad")
+print("ya que, gracias al apoyo de la comunidad que esta familia le brindo")
+print("la familia de cerditos logro obtener un gran respeto y apoyo gracias al aporte de la comunidad")

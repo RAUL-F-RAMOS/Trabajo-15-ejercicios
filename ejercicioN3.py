@@ -1,0 +1,11 @@
+##trabajo numero 3 realizar figuras 
+print("* * * * * * * * * *")
+print("*                 *")
+print("*                 *")
+print("*                 *")
+print("*                 *")
+print("*                 *")
+print("*                 *")
+print("*                 *")
+print("*                 *")
+print("* * * * * * * * * *")
